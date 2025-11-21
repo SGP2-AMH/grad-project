@@ -1,0 +1,157 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Definition of the design system. All colors, gradients, fonts, etc should be defined here. 
+All colors MUST be HSL.
+*/
+
+@layer base {
+  :root {
+    --background: 36 39% 96%;
+    --foreground: 140 30% 15%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 140 30% 15%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 140 30% 15%;
+
+    --primary: 142 76% 36%;
+    --primary-foreground: 0 0% 100%;
+
+    --secondary: 30 54% 94%;
+    --secondary-foreground: 140 30% 15%;
+
+    --muted: 36 20% 90%;
+    --muted-foreground: 140 10% 45%;
+
+    --accent: 142 50% 45%;
+    --accent-foreground: 0 0% 100%;
+
+    --destructive: 0 84% 60%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 36 20% 85%;
+    --input: 36 20% 85%;
+    --ring: 142 76% 36%;
+
+    --radius: 0.5rem;
+
+    /* Chess-specific tokens */
+    --square-light: 87 55% 80%;
+    --square-dark: 142 50% 45%;
+    --square-highlight: 46 100% 77%;
+    --square-selected: 46 87% 65%;
+    
+    --timer-bg: 0 0% 100%;
+    --timer-text: 140 30% 15%;
+    --timer-warning: 25 95% 53%;
+    
+    --move-history-bg: 0 0% 100%;
+    --move-history-hover: 36 20% 95%;
+
+    /* Board themes */
+    --board-classic-light: 87 55% 80%;
+    --board-classic-dark: 142 50% 45%;
+    
+    --board-wood-light: 30 50% 70%;
+    --board-wood-dark: 25 40% 35%;
+    
+    --board-marine-light: 200 70% 85%;
+    --board-marine-dark: 210 60% 45%;
+    
+    --board-coral-light: 15 80% 85%;
+    --board-coral-dark: 340 65% 50%;
+
+    /* Shadows and effects */
+    --shadow-sm: 0 1px 2px 0 rgb(0 0 0 / 0.05);
+    --shadow-md: 0 4px 6px -1px rgb(0 0 0 / 0.1);
+    --shadow-lg: 0 10px 15px -3px rgb(0 0 0 / 0.1);
+    --shadow-xl: 0 20px 25px -5px rgb(0 0 0 / 0.1);
+
+    --sidebar-background: 0 0% 98%;
+    --sidebar-foreground: 240 5.3% 26.1%;
+    --sidebar-primary: 240 5.9% 10%;
+    --sidebar-primary-foreground: 0 0% 98%;
+    --sidebar-accent: 240 4.8% 95.9%;
+    --sidebar-accent-foreground: 240 5.9% 10%;
+    --sidebar-border: 220 13% 91%;
+    --sidebar-ring: 217.2 91.2% 59.8%;
+  }
+
+  .dark {
+    --background: 140 25% 8%;
+    --foreground: 36 39% 96%;
+
+    --card: 140 20% 12%;
+    --card-foreground: 36 39% 96%;
+
+    --popover: 140 20% 12%;
+    --popover-foreground: 36 39% 96%;
+
+    --primary: 142 70% 45%;
+    --primary-foreground: 0 0% 100%;
+
+    --secondary: 140 15% 18%;
+    --secondary-foreground: 36 39% 96%;
+
+    --muted: 140 15% 18%;
+    --muted-foreground: 36 20% 65%;
+
+    --accent: 142 60% 40%;
+    --accent-foreground: 0 0% 100%;
+
+    --destructive: 0 84% 60%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 140 15% 18%;
+    --input: 140 15% 18%;
+    --ring: 142 70% 45%;
+
+    /* Chess-specific tokens - dark mode */
+    --square-light: 35 28% 45%;
+    --square-dark: 142 35% 25%;
+    --square-highlight: 46 85% 55%;
+    --square-selected: 46 75% 45%;
+    
+    --timer-bg: 140 20% 12%;
+    --timer-text: 36 39% 96%;
+    --timer-warning: 25 95% 53%;
+    
+    --move-history-bg: 140 20% 12%;
+    --move-history-hover: 140 15% 20%;
+
+    /* Board themes - dark mode */
+    --board-classic-light: 35 28% 45%;
+    --board-classic-dark: 142 35% 25%;
+    
+    --board-wood-light: 30 35% 45%;
+    --board-wood-dark: 25 30% 22%;
+    
+    --board-marine-light: 200 40% 45%;
+    --board-marine-dark: 210 50% 25%;
+    
+    --board-coral-light: 15 50% 50%;
+    --board-coral-dark: 340 45% 30%;
+
+    --sidebar-background: 240 5.9% 10%;
+    --sidebar-foreground: 240 4.8% 95.9%;
+    --sidebar-primary: 224.3 76.3% 48%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 240 3.7% 15.9%;
+    --sidebar-accent-foreground: 240 4.8% 95.9%;
+    --sidebar-border: 240 3.7% 15.9%;
+    --sidebar-ring: 217.2 91.2% 59.8%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+  }
+}
