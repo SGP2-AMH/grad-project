@@ -1,0 +1,8 @@
+python-chess
+numpy
+Pillow
+torch
+torchvision
+Flask
+Flask-CORS
+requests

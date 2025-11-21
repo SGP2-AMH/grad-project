@@ -1,0 +1,285 @@
+2025-11-21 16:19:59,806 - WARNING -  * Debugger is active!
+2025-11-21 16:19:59,809 - INFO -  * Debugger PIN: 135-928-117
+2025-11-21 16:20:02,640 - INFO -  * Detected change in 'C:\\Users\\Omar\\Desktop\\ali_grad\\ai models\\api.py', reloading
+2025-11-21 16:20:02,925 - WARNING -  * Debugger is active!
+2025-11-21 16:20:02,927 - INFO -  * Debugger PIN: 135-928-117
+2025-11-21 16:20:10,584 - INFO -  * Detected change in 'C:\\Users\\Omar\\Desktop\\ali_grad\\ai models\\api.py', reloading
+2025-11-21 16:20:10,866 - WARNING -  * Debugger is active!
+2025-11-21 16:20:10,869 - INFO -  * Debugger PIN: 135-928-117
+2025-11-21 16:20:17,308 - INFO -  * Detected change in 'C:\\Users\\Omar\\Desktop\\ali_grad\\ai models\\api.py', reloading
+2025-11-21 16:20:17,592 - WARNING -  * Debugger is active!
+2025-11-21 16:20:17,595 - INFO -  * Debugger PIN: 135-928-117
+2025-11-21 16:20:22,861 - INFO -  * Detected change in 'C:\\Users\\Omar\\Desktop\\ali_grad\\ai models\\api.py', reloading
+2025-11-21 16:20:23,142 - WARNING -  * Debugger is active!
+2025-11-21 16:20:23,145 - INFO -  * Debugger PIN: 135-928-117
+2025-11-21 16:20:25,909 - INFO -  * Detected change in 'C:\\Users\\Omar\\Desktop\\ali_grad\\ai models\\api.py', reloading
+2025-11-21 16:20:26,172 - INFO - Starting Chess API server on http://0.0.0.0:5000
+2025-11-21 16:20:26,184 - WARNING -  * Debugger is active!
+2025-11-21 16:20:26,187 - INFO -  * Debugger PIN: 135-928-117
+2025-11-21 16:20:46,765 - INFO - Starting Chess API server on http://0.0.0.0:5000
+2025-11-21 16:20:46,783 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.100.186:5000
+2025-11-21 16:20:46,784 - INFO - [33mPress CTRL+C to quit[0m
+2025-11-21 16:20:46,784 - INFO -  * Restarting with stat
+2025-11-21 16:20:47,009 - INFO - Starting Chess API server on http://0.0.0.0:5000
+2025-11-21 16:20:47,021 - WARNING -  * Debugger is active!
+2025-11-21 16:20:47,024 - INFO -  * Debugger PIN: 135-928-117
+2025-11-21 16:21:02,082 - INFO -  * Detected change in 'C:\\Users\\Omar\\Desktop\\ali_grad\\ai models\\api.py', reloading
+2025-11-21 16:21:02,111 - INFO -  * Restarting with stat
+2025-11-21 16:21:02,354 - INFO - Starting Chess API server on http://0.0.0.0:5000
+2025-11-21 16:21:02,366 - WARNING -  * Debugger is active!
+2025-11-21 16:21:02,369 - INFO -  * Debugger PIN: 135-928-117
+2025-11-21 16:22:10,949 - INFO -  * Detected change in 'C:\\Users\\Omar\\Desktop\\ali_grad\\ai models\\api.py', reloading
+2025-11-21 16:22:10,977 - INFO -  * Restarting with stat
+2025-11-21 16:22:11,225 - INFO - Starting Chess API server on http://0.0.0.0:5000
+2025-11-21 16:22:11,236 - WARNING -  * Debugger is active!
+2025-11-21 16:22:11,239 - INFO -  * Debugger PIN: 135-928-117
+2025-11-21 16:22:16,515 - INFO -  * Detected change in 'C:\\Users\\Omar\\Desktop\\ali_grad\\ai models\\api.py', reloading
+2025-11-21 16:22:16,542 - INFO -  * Restarting with stat
+2025-11-21 16:22:16,772 - INFO - Starting Chess API server on http://0.0.0.0:5000
+2025-11-21 16:22:16,784 - WARNING -  * Debugger is active!
+2025-11-21 16:22:16,786 - INFO -  * Debugger PIN: 135-928-117
+2025-11-21 16:22:22,140 - INFO -  * Detected change in 'C:\\Users\\Omar\\Desktop\\ali_grad\\ai models\\api.py', reloading
+2025-11-21 16:22:22,185 - INFO -  * Restarting with stat
+2025-11-21 16:22:22,438 - INFO - Starting Chess API server on http://0.0.0.0:5000
+2025-11-21 16:22:22,449 - WARNING -  * Debugger is active!
+2025-11-21 16:22:22,452 - INFO -  * Debugger PIN: 135-928-117
+2025-11-21 16:22:26,580 - INFO -  * Detected change in 'C:\\Users\\Omar\\Desktop\\ali_grad\\ai models\\api.py', reloading
+2025-11-21 16:22:26,609 - INFO -  * Restarting with stat
+2025-11-21 16:22:26,900 - INFO - Starting Chess API server on http://0.0.0.0:5000
+2025-11-21 16:22:26,912 - WARNING -  * Debugger is active!
+2025-11-21 16:22:26,914 - INFO -  * Debugger PIN: 135-928-117
+2025-11-21 16:22:33,418 - INFO -  * Detected change in 'C:\\Users\\Omar\\Desktop\\ali_grad\\ai models\\api.py', reloading
+2025-11-21 16:22:33,445 - INFO -  * Restarting with stat
+2025-11-21 16:22:33,691 - INFO - Starting Chess API server on http://0.0.0.0:5000
+2025-11-21 16:22:33,703 - WARNING -  * Debugger is active!
+2025-11-21 16:22:33,706 - INFO -  * Debugger PIN: 135-928-117
+2025-11-21 16:22:37,782 - INFO -  * Detected change in 'C:\\Users\\Omar\\Desktop\\ali_grad\\ai models\\api.py', reloading
+2025-11-21 16:22:37,809 - INFO -  * Restarting with stat
+2025-11-21 16:22:38,053 - INFO - Starting Chess API server on http://0.0.0.0:5000
+2025-11-21 16:22:38,064 - WARNING -  * Debugger is active!
+2025-11-21 16:22:38,067 - INFO -  * Debugger PIN: 135-928-117
+2025-11-21 16:22:48,191 - INFO -  * Detected change in 'C:\\Users\\Omar\\Desktop\\ali_grad\\ai models\\api.py', reloading
+2025-11-21 16:22:48,218 - INFO -  * Restarting with stat
+2025-11-21 16:22:48,452 - INFO - Starting Chess API server on http://0.0.0.0:5000
+2025-11-21 16:22:48,464 - WARNING -  * Debugger is active!
+2025-11-21 16:22:48,467 - INFO -  * Debugger PIN: 135-928-117
+2025-11-21 16:23:03,766 - INFO - Starting Chess API server on http://0.0.0.0:5000
+2025-11-21 16:23:03,785 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.100.186:5000
+2025-11-21 16:23:03,785 - INFO - [33mPress CTRL+C to quit[0m
+2025-11-21 16:23:03,786 - INFO -  * Restarting with stat
+2025-11-21 16:23:04,016 - INFO - Starting Chess API server on http://0.0.0.0:5000
+2025-11-21 16:23:04,027 - WARNING -  * Debugger is active!
+2025-11-21 16:23:04,029 - INFO -  * Debugger PIN: 135-928-117
+2025-11-21 16:24:11,416 - INFO -  * Detected change in 'C:\\Users\\Omar\\Desktop\\ali_grad\\ai models\\api.py', reloading
+2025-11-21 16:24:11,452 - INFO -  * Restarting with stat
+2025-11-21 16:24:11,713 - INFO - Starting Chess API server on http://0.0.0.0:5000
+2025-11-21 16:24:11,725 - WARNING -  * Debugger is active!
+2025-11-21 16:24:11,728 - INFO -  * Debugger PIN: 135-928-117
+2025-11-21 16:24:16,981 - INFO -  * Detected change in 'C:\\Users\\Omar\\Desktop\\ali_grad\\ai models\\api.py', reloading
+2025-11-21 16:24:17,007 - INFO -  * Restarting with stat
+2025-11-21 16:24:17,247 - INFO - Starting Chess API server on http://0.0.0.0:5000
+2025-11-21 16:24:17,259 - WARNING -  * Debugger is active!
+2025-11-21 16:24:17,263 - INFO -  * Debugger PIN: 135-928-117
+2025-11-21 16:24:21,313 - INFO -  * Detected change in 'C:\\Users\\Omar\\Desktop\\ali_grad\\ai models\\api.py', reloading
+2025-11-21 16:24:21,340 - INFO -  * Restarting with stat
+2025-11-21 16:24:21,579 - INFO - Starting Chess API server on http://0.0.0.0:5000
+2025-11-21 16:24:21,591 - WARNING -  * Debugger is active!
+2025-11-21 16:24:21,594 - INFO -  * Debugger PIN: 135-928-117
+2025-11-21 16:25:14,450 - INFO -  * Detected change in 'C:\\Users\\Omar\\Desktop\\ali_grad\\ai models\\api.py', reloading
+2025-11-21 16:25:14,476 - INFO -  * Restarting with stat
+2025-11-21 16:25:14,722 - INFO - Starting Chess API server on http://0.0.0.0:5000
+2025-11-21 16:25:14,734 - WARNING -  * Debugger is active!
+2025-11-21 16:25:14,736 - INFO -  * Debugger PIN: 135-928-117
+2025-11-21 16:25:18,781 - INFO -  * Detected change in 'C:\\Users\\Omar\\Desktop\\ali_grad\\ai models\\api.py', reloading
+2025-11-21 16:25:18,811 - INFO -  * Restarting with stat
+2025-11-21 16:25:19,054 - INFO - Starting Chess API server on http://0.0.0.0:5000
+2025-11-21 16:25:19,065 - WARNING -  * Debugger is active!
+2025-11-21 16:25:19,068 - INFO -  * Debugger PIN: 135-928-117
+2025-11-21 16:25:23,073 - INFO -  * Detected change in 'C:\\Users\\Omar\\Desktop\\ali_grad\\ai models\\api.py', reloading
+2025-11-21 16:25:23,104 - INFO -  * Restarting with stat
+2025-11-21 16:25:23,350 - INFO - Starting Chess API server on http://0.0.0.0:5000
+2025-11-21 16:25:23,361 - WARNING -  * Debugger is active!
+2025-11-21 16:25:23,364 - INFO -  * Debugger PIN: 135-928-117
+2025-11-21 16:25:28,377 - INFO - Best move request received - FEN: rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1
+2025-11-21 16:25:28,377 - INFO - Calling Lichess API with FEN: rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq...
+2025-11-21 16:25:28,806 - INFO - Full Lichess response: {'fen': 'rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1', 'knodes': 593446314, 'depth': 65, 'pvs': [{'moves': 'c2c4 e7e5 g2g3 g8f6 f1g2 f8c5 d2d3 e8h8 b1c3 f8e8', 'cp': 19}]}
+2025-11-21 16:25:28,807 - INFO - PVS found - best_pv: {'moves': 'c2c4 e7e5 g2g3 g8f6 f1g2 f8c5 d2d3 e8h8 b1c3 f8e8', 'cp': 19}
+2025-11-21 16:25:28,807 - INFO - Lichess API response - Move: c2c4, Evaluation: 19
+2025-11-21 16:25:28,807 - INFO - Returning best move: c2c4
+2025-11-21 16:25:28,809 - INFO - 127.0.0.1 - - [21/Nov/2025 16:25:28] "POST /api/best-move HTTP/1.1" 200 -
+2025-11-21 16:26:11,237 - INFO -  * Detected change in 'C:\\Users\\Omar\\Desktop\\ali_grad\\ai models\\api.py', reloading
+2025-11-21 16:26:11,264 - INFO -  * Restarting with stat
+2025-11-21 16:26:11,507 - INFO - Starting Chess API server on http://0.0.0.0:5000
+2025-11-21 16:26:11,518 - WARNING -  * Debugger is active!
+2025-11-21 16:26:11,521 - INFO -  * Debugger PIN: 135-928-117
+2025-11-21 16:26:29,080 - INFO - Starting Chess API server on http://0.0.0.0:5000
+2025-11-21 16:26:29,099 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.100.186:5000
+2025-11-21 16:26:29,099 - INFO - [33mPress CTRL+C to quit[0m
+2025-11-21 16:26:29,100 - INFO -  * Restarting with stat
+2025-11-21 16:26:29,329 - INFO - Starting Chess API server on http://0.0.0.0:5000
+2025-11-21 16:26:29,339 - WARNING -  * Debugger is active!
+2025-11-21 16:26:29,342 - INFO -  * Debugger PIN: 135-928-117
+2025-11-21 16:27:32,142 - INFO -  * Detected change in 'C:\\Users\\Omar\\Desktop\\ali_grad\\ai models\\api.py', reloading
+2025-11-21 16:27:32,170 - INFO -  * Restarting with stat
+2025-11-21 16:27:32,418 - INFO - Starting Chess API server on http://0.0.0.0:5000
+2025-11-21 16:27:32,430 - WARNING -  * Debugger is active!
+2025-11-21 16:27:32,433 - INFO -  * Debugger PIN: 135-928-117
+2025-11-21 16:27:38,828 - INFO - Starting Chess API server on http://0.0.0.0:5000
+2025-11-21 16:27:38,847 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.100.186:5000
+2025-11-21 16:27:38,847 - INFO - [33mPress CTRL+C to quit[0m
+2025-11-21 16:27:38,848 - INFO -  * Restarting with stat
+2025-11-21 16:27:39,075 - INFO - Starting Chess API server on http://0.0.0.0:5000
+2025-11-21 16:27:39,087 - WARNING -  * Debugger is active!
+2025-11-21 16:27:39,089 - INFO -  * Debugger PIN: 135-928-117
+2025-11-21 16:27:54,113 - INFO -  * Detected change in 'C:\\Users\\Omar\\Desktop\\ali_grad\\ai models\\api.py', reloading
+2025-11-21 16:27:54,140 - INFO -  * Restarting with stat
+2025-11-21 16:27:54,385 - INFO - Starting Chess API server on http://0.0.0.0:5000
+2025-11-21 16:27:54,397 - WARNING -  * Debugger is active!
+2025-11-21 16:27:54,399 - INFO -  * Debugger PIN: 135-928-117
+2025-11-21 16:29:14,353 - INFO - Starting Chess API server on http://0.0.0.0:5000
+2025-11-21 16:29:14,371 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.100.186:5000
+2025-11-21 16:29:14,372 - INFO - [33mPress CTRL+C to quit[0m
+2025-11-21 16:29:14,373 - INFO -  * Restarting with stat
+2025-11-21 16:29:14,609 - INFO - Starting Chess API server on http://0.0.0.0:5000
+2025-11-21 16:29:14,619 - WARNING -  * Debugger is active!
+2025-11-21 16:29:14,622 - INFO -  * Debugger PIN: 135-928-117
+2025-11-21 16:30:17,707 - INFO - Starting Chess API server on http://0.0.0.0:5000
+2025-11-21 16:30:17,725 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.100.186:5000
+2025-11-21 16:30:17,725 - INFO - [33mPress CTRL+C to quit[0m
+2025-11-21 16:30:17,726 - INFO -  * Restarting with stat
+2025-11-21 16:30:17,955 - INFO - Starting Chess API server on http://0.0.0.0:5000
+2025-11-21 16:30:17,966 - WARNING -  * Debugger is active!
+2025-11-21 16:30:17,969 - INFO -  * Debugger PIN: 135-928-117
+2025-11-21 16:30:39,901 - INFO - Best move request received - FEN: rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1
+2025-11-21 16:30:39,902 - INFO - Calling Lichess API with FEN: rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq...
+2025-11-21 16:30:40,305 - INFO - Full Lichess response: {'fen': 'rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1', 'knodes': 593446314, 'depth': 65, 'pvs': [{'moves': 'c2c4 e7e5 g2g3 g8f6 f1g2 f8c5 d2d3 e8h8 b1c3 f8e8', 'cp': 19}]}
+2025-11-21 16:30:40,306 - INFO - PVS found - best_pv: {'moves': 'c2c4 e7e5 g2g3 g8f6 f1g2 f8c5 d2d3 e8h8 b1c3 f8e8', 'cp': 19}
+2025-11-21 16:30:40,306 - INFO - Lichess API response - Move: c2c4, Evaluation: 19
+2025-11-21 16:30:40,306 - INFO - Returning best move: c2c4
+2025-11-21 16:30:40,309 - INFO - 127.0.0.1 - - [21/Nov/2025 16:30:40] "POST /api/best-move HTTP/1.1" 200 -
+2025-11-21 16:31:15,971 - INFO - 127.0.0.1 - - [21/Nov/2025 16:31:15] "OPTIONS /api/best-move HTTP/1.1" 200 -
+2025-11-21 16:31:16,236 - INFO - Best move request received - FEN: rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1
+2025-11-21 16:31:16,237 - INFO - Calling Lichess API with FEN: rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQ...
+2025-11-21 16:31:16,771 - INFO - Full Lichess response: {'fen': 'rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1', 'knodes': 105848192, 'depth': 70, 'pvs': [{'moves': 'e7e5 g1f3 b8c6 f1b5 g8f6 e1h1 f6e4 f1e1 e4d6 f3e5', 'cp': 18}]}
+2025-11-21 16:31:16,772 - INFO - PVS found - best_pv: {'moves': 'e7e5 g1f3 b8c6 f1b5 g8f6 e1h1 f6e4 f1e1 e4d6 f3e5', 'cp': 18}
+2025-11-21 16:31:16,772 - INFO - Lichess API response - Move: e7e5, Evaluation: 18
+2025-11-21 16:31:16,773 - INFO - Returning best move: e7e5
+2025-11-21 16:31:16,775 - INFO - 127.0.0.1 - - [21/Nov/2025 16:31:16] "POST /api/best-move HTTP/1.1" 200 -
+2025-11-21 16:31:24,963 - INFO - 127.0.0.1 - - [21/Nov/2025 16:31:24] "OPTIONS /api/best-move HTTP/1.1" 200 -
+2025-11-21 16:31:25,277 - INFO - Best move request received - FEN: rnbqkbnr/pppp1ppp/8/4p3/4P3/2N5/PPPP1PPP/R1BQKBNR b KQkq - 1 2
+2025-11-21 16:31:25,277 - INFO - Calling Lichess API with FEN: rnbqkbnr/pppp1ppp/8/4p3/4P3/2N5/PPPP1PPP/R1BQKBNR ...
+2025-11-21 16:31:25,806 - INFO - Full Lichess response: {'fen': 'rnbqkbnr/pppp1ppp/8/4p3/4P3/2N5/PPPP1PPP/R1BQKBNR b KQkq - 1 2', 'knodes': 199293076, 'depth': 60, 'pvs': [{'moves': 'g8f6 g1f3 b8c6 d2d4 e5d4 f3d4 f8b4 d4c6 b7c6 f1d3', 'cp': 8}]}
+2025-11-21 16:31:25,806 - INFO - PVS found - best_pv: {'moves': 'g8f6 g1f3 b8c6 d2d4 e5d4 f3d4 f8b4 d4c6 b7c6 f1d3', 'cp': 8}
+2025-11-21 16:31:25,806 - INFO - Lichess API response - Move: g8f6, Evaluation: 8
+2025-11-21 16:31:25,806 - INFO - Returning best move: g8f6
+2025-11-21 16:31:25,808 - INFO - 127.0.0.1 - - [21/Nov/2025 16:31:25] "POST /api/best-move HTTP/1.1" 200 -
+2025-11-21 16:31:30,819 - INFO - 127.0.0.1 - - [21/Nov/2025 16:31:30] "OPTIONS /api/best-move HTTP/1.1" 200 -
+2025-11-21 16:31:31,125 - INFO - Best move request received - FEN: rnbqkb1r/pppp1ppp/5n2/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq - 3 3
+2025-11-21 16:31:31,126 - INFO - Calling Lichess API with FEN: rnbqkb1r/pppp1ppp/5n2/4p3/4P3/2N2N2/PPPP1PPP/R1BQK...
+2025-11-21 16:31:31,648 - INFO - Full Lichess response: {'fen': 'rnbqkb1r/pppp1ppp/5n2/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq - 3 3', 'knodes': 3466278, 'depth': 50, 'pvs': [{'moves': 'b8c6 f1b5 c6d4 b5c4 f8c5 f3e5 d8e7 e5f3 d7d5 c4d5', 'cp': 0}]}
+2025-11-21 16:31:31,648 - INFO - PVS found - best_pv: {'moves': 'b8c6 f1b5 c6d4 b5c4 f8c5 f3e5 d8e7 e5f3 d7d5 c4d5', 'cp': 0}
+2025-11-21 16:31:31,648 - INFO - Lichess API response - Move: b8c6, Evaluation: 0
+2025-11-21 16:31:31,649 - INFO - Returning best move: b8c6
+2025-11-21 16:31:31,649 - INFO - 127.0.0.1 - - [21/Nov/2025 16:31:31] "POST /api/best-move HTTP/1.1" 200 -
+2025-11-21 16:31:43,697 - INFO - 127.0.0.1 - - [21/Nov/2025 16:31:43] "OPTIONS /api/best-move HTTP/1.1" 200 -
+2025-11-21 16:31:44,004 - INFO - Best move request received - FEN: r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/2N2N2/PPPP1PPP/R1BQK2R b KQkq - 5 4
+2025-11-21 16:31:44,004 - INFO - Calling Lichess API with FEN: r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/2N2N2/PPPP1PPP/R...
+2025-11-21 16:31:44,501 - INFO - Full Lichess response: {'fen': 'r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/2N2N2/PPPP1PPP/R1BQK2R b KQkq - 5 4', 'knodes': 5429, 'depth': 70, 'pvs': [{'moves': 'f6e4 c3e4 d7d5 c4d3 d5e4 d3e4 f8d6 e1h1 e8h8 f1e1', 'cp': 0}]}
+2025-11-21 16:31:44,501 - INFO - PVS found - best_pv: {'moves': 'f6e4 c3e4 d7d5 c4d3 d5e4 d3e4 f8d6 e1h1 e8h8 f1e1', 'cp': 0}
+2025-11-21 16:31:44,501 - INFO - Lichess API response - Move: f6e4, Evaluation: 0
+2025-11-21 16:31:44,502 - INFO - Returning best move: f6e4
+2025-11-21 16:31:44,503 - INFO - 127.0.0.1 - - [21/Nov/2025 16:31:44] "POST /api/best-move HTTP/1.1" 200 -
+2025-11-21 16:31:52,828 - INFO - 127.0.0.1 - - [21/Nov/2025 16:31:52] "OPTIONS /api/best-move HTTP/1.1" 200 -
+2025-11-21 16:31:53,141 - INFO - Best move request received - FEN: r1bqkb1r/pppp1ppp/2n5/4p3/2B1N3/5N2/PPPP1PPP/R1BQK2R b KQkq - 0 5
+2025-11-21 16:31:53,141 - INFO - Calling Lichess API with FEN: r1bqkb1r/pppp1ppp/2n5/4p3/2B1N3/5N2/PPPP1PPP/R1BQK...
+2025-11-21 16:31:53,708 - INFO - Full Lichess response: {'fen': 'r1bqkb1r/pppp1ppp/2n5/4p3/2B1N3/5N2/PPPP1PPP/R1BQK2R b KQkq - 0 5', 'knodes': 357916, 'depth': 55, 'pvs': [{'moves': 'd7d5 c4d3 d5e4 d3e4 f8d6 e1h1 e8h8 f1e1 c8g4 c2c3', 'cp': 0}]}
+2025-11-21 16:31:53,708 - INFO - PVS found - best_pv: {'moves': 'd7d5 c4d3 d5e4 d3e4 f8d6 e1h1 e8h8 f1e1 c8g4 c2c3', 'cp': 0}
+2025-11-21 16:31:53,708 - INFO - Lichess API response - Move: d7d5, Evaluation: 0
+2025-11-21 16:31:53,709 - INFO - Returning best move: d7d5
+2025-11-21 16:31:53,710 - INFO - 127.0.0.1 - - [21/Nov/2025 16:31:53] "POST /api/best-move HTTP/1.1" 200 -
+2025-11-21 16:31:57,431 - INFO - Best move request received - FEN: r1bqkb1r/ppp2ppp/2n5/3Bp3/4N3/5N2/PPPP1PPP/R1BQK2R b KQkq - 0 6
+2025-11-21 16:31:57,431 - INFO - Calling Lichess API with FEN: r1bqkb1r/ppp2ppp/2n5/3Bp3/4N3/5N2/PPPP1PPP/R1BQK2R...
+2025-11-21 16:31:57,964 - INFO - Full Lichess response: {'fen': 'r1bqkb1r/ppp2ppp/2n5/3Bp3/4N3/5N2/PPPP1PPP/R1BQK2R b KQkq - 0 6', 'knodes': 86114, 'depth': 37, 'pvs': [{'moves': 'd8d5 e4c3 d5d6 e1h1 c8e6 f3g5 e8a8 d2d3 h7h6 c3e4', 'cp': -97}]}
+2025-11-21 16:31:57,964 - INFO - PVS found - best_pv: {'moves': 'd8d5 e4c3 d5d6 e1h1 c8e6 f3g5 e8a8 d2d3 h7h6 c3e4', 'cp': -97}
+2025-11-21 16:31:57,964 - INFO - Lichess API response - Move: d8d5, Evaluation: -97
+2025-11-21 16:31:57,965 - INFO - Returning best move: d8d5
+2025-11-21 16:31:57,966 - INFO - 127.0.0.1 - - [21/Nov/2025 16:31:57] "POST /api/best-move HTTP/1.1" 200 -
+2025-11-21 16:32:02,559 - INFO - 127.0.0.1 - - [21/Nov/2025 16:32:02] "OPTIONS /api/best-move HTTP/1.1" 200 -
+2025-11-21 16:32:02,825 - INFO - Best move request received - FEN: r1b1kb1r/ppp2ppp/2n5/3qN3/4N3/8/PPPP1PPP/R1BQK2R b KQkq - 0 7
+2025-11-21 16:32:02,828 - INFO - Calling Lichess API with FEN: r1b1kb1r/ppp2ppp/2n5/3qN3/4N3/8/PPPP1PPP/R1BQK2R b...
+2025-11-21 16:32:03,350 - INFO - Full Lichess response: {'fen': 'r1b1kb1r/ppp2ppp/2n5/3qN3/4N3/8/PPPP1PPP/R1BQK2R b KQkq - 0 7', 'knodes': 16634, 'depth': 27, 'pvs': [{'moves': 'd5e4 d1e2 e4e2 e1e2 c6e5 d2d4 e5g6 h1e1 c8e6 e2f1', 'cp': -613}]}
+2025-11-21 16:32:03,352 - INFO - PVS found - best_pv: {'moves': 'd5e4 d1e2 e4e2 e1e2 c6e5 d2d4 e5g6 h1e1 c8e6 e2f1', 'cp': -613}
+2025-11-21 16:32:03,353 - INFO - Lichess API response - Move: d5e4, Evaluation: -613
+2025-11-21 16:32:03,354 - INFO - Returning best move: d5e4
+2025-11-21 16:32:03,357 - INFO - 127.0.0.1 - - [21/Nov/2025 16:32:03] "POST /api/best-move HTTP/1.1" 200 -
+2025-11-21 16:34:44,036 - INFO - Starting Chess API server on http://0.0.0.0:5000
+2025-11-21 16:34:44,056 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.100.186:5000
+2025-11-21 16:34:44,056 - INFO - [33mPress CTRL+C to quit[0m
+2025-11-21 16:34:44,057 - INFO -  * Restarting with stat
+2025-11-21 16:34:44,282 - INFO - Starting Chess API server on http://0.0.0.0:5000
+2025-11-21 16:34:44,294 - WARNING -  * Debugger is active!
+2025-11-21 16:34:44,296 - INFO -  * Debugger PIN: 135-928-117
+2025-11-21 16:35:06,700 - INFO - 127.0.0.1 - - [21/Nov/2025 16:35:06] "OPTIONS /api/best-move HTTP/1.1" 200 -
+2025-11-21 16:35:06,966 - INFO - Best move request received - FEN: rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1
+2025-11-21 16:35:06,966 - INFO - Calling Lichess API with FEN: rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQ...
+2025-11-21 16:35:07,359 - INFO - Full Lichess response: {'fen': 'rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1', 'knodes': 105848192, 'depth': 70, 'pvs': [{'moves': 'e7e5 g1f3 b8c6 f1b5 g8f6 e1h1 f6e4 f1e1 e4d6 f3e5', 'cp': 18}]}
+2025-11-21 16:35:07,359 - INFO - PVS found - best_pv: {'moves': 'e7e5 g1f3 b8c6 f1b5 g8f6 e1h1 f6e4 f1e1 e4d6 f3e5', 'cp': 18}
+2025-11-21 16:35:07,359 - INFO - Lichess API response - Move: e7e5, Evaluation: 18
+2025-11-21 16:35:07,359 - INFO - Returning best move: e7e5
+2025-11-21 16:35:07,361 - INFO - 127.0.0.1 - - [21/Nov/2025 16:35:07] "POST /api/best-move HTTP/1.1" 200 -
+2025-11-21 16:35:13,249 - INFO - 127.0.0.1 - - [21/Nov/2025 16:35:13] "OPTIONS /api/best-move HTTP/1.1" 200 -
+2025-11-21 16:35:13,558 - INFO - Best move request received - FEN: rnbqkbnr/pppp1ppp/8/1B2p3/4P3/8/PPPP1PPP/RNBQK1NR b KQkq - 1 2
+2025-11-21 16:35:13,558 - INFO - Calling Lichess API with FEN: rnbqkbnr/pppp1ppp/8/1B2p3/4P3/8/PPPP1PPP/RNBQK1NR ...
+2025-11-21 16:35:13,964 - INFO - Full Lichess response: {'fen': 'rnbqkbnr/pppp1ppp/8/1B2p3/4P3/8/PPPP1PPP/RNBQK1NR b KQkq - 1 2', 'knodes': 2064819, 'depth': 50, 'pvs': [{'moves': 'g8f6 d2d3 c7c6 b5a4 d7d5 e4d5 f6d5 a4b3 a7a5 g1f3', 'cp': -21}]}
+2025-11-21 16:35:13,964 - INFO - PVS found - best_pv: {'moves': 'g8f6 d2d3 c7c6 b5a4 d7d5 e4d5 f6d5 a4b3 a7a5 g1f3', 'cp': -21}
+2025-11-21 16:35:13,964 - INFO - Lichess API response - Move: g8f6, Evaluation: -21
+2025-11-21 16:35:13,964 - INFO - Returning best move: g8f6
+2025-11-21 16:35:13,965 - INFO - 127.0.0.1 - - [21/Nov/2025 16:35:13] "POST /api/best-move HTTP/1.1" 200 -
+2025-11-21 16:35:16,971 - INFO - Best move request received - FEN: rnbqkb1r/pppp1ppp/5n2/1B2p3/4P3/2N5/PPPP1PPP/R1BQK1NR b KQkq - 3 3
+2025-11-21 16:35:16,971 - INFO - Calling Lichess API with FEN: rnbqkb1r/pppp1ppp/5n2/1B2p3/4P3/2N5/PPPP1PPP/R1BQK...
+2025-11-21 16:35:17,404 - INFO - Full Lichess response: {'fen': 'rnbqkb1r/pppp1ppp/5n2/1B2p3/4P3/2N5/PPPP1PPP/R1BQK1NR b KQkq - 3 3', 'knodes': 2001504, 'depth': 50, 'pvs': [{'moves': 'c7c6 b5a4 d7d5 e4d5 b7b5 a4b3 b5b4 c3a4 f8d6 g1e2', 'cp': -27}]}
+2025-11-21 16:35:17,405 - INFO - PVS found - best_pv: {'moves': 'c7c6 b5a4 d7d5 e4d5 b7b5 a4b3 b5b4 c3a4 f8d6 g1e2', 'cp': -27}
+2025-11-21 16:35:17,405 - INFO - Lichess API response - Move: c7c6, Evaluation: -27
+2025-11-21 16:35:17,405 - INFO - Returning best move: c7c6
+2025-11-21 16:35:17,407 - INFO - 127.0.0.1 - - [21/Nov/2025 16:35:17] "POST /api/best-move HTTP/1.1" 200 -
+2025-11-21 16:35:20,771 - INFO - 127.0.0.1 - - [21/Nov/2025 16:35:20] "OPTIONS /api/best-move HTTP/1.1" 200 -
+2025-11-21 16:35:21,033 - INFO - Best move request received - FEN: rnbqkb1r/pp1p1ppp/2p2n2/4p3/B3P3/2N5/PPPP1PPP/R1BQK1NR b KQkq - 1 4
+2025-11-21 16:35:21,034 - INFO - Calling Lichess API with FEN: rnbqkb1r/pp1p1ppp/2p2n2/4p3/B3P3/2N5/PPPP1PPP/R1BQ...
+2025-11-21 16:35:21,477 - INFO - Full Lichess response: {'fen': 'rnbqkb1r/pp1p1ppp/2p2n2/4p3/B3P3/2N5/PPPP1PPP/R1BQK1NR b KQkq - 1 4', 'knodes': 870239, 'depth': 46, 'pvs': [{'moves': 'd7d5 e4d5 b7b5 a4b3 b5b4 c3e2 c6d5 d2d4 e5e4 c1g5', 'cp': -34}]}
+2025-11-21 16:35:21,477 - INFO - PVS found - best_pv: {'moves': 'd7d5 e4d5 b7b5 a4b3 b5b4 c3e2 c6d5 d2d4 e5e4 c1g5', 'cp': -34}
+2025-11-21 16:35:21,477 - INFO - Lichess API response - Move: d7d5, Evaluation: -34
+2025-11-21 16:35:21,478 - INFO - Returning best move: d7d5
+2025-11-21 16:35:21,479 - INFO - 127.0.0.1 - - [21/Nov/2025 16:35:21] "POST /api/best-move HTTP/1.1" 200 -
+2025-11-21 16:35:30,995 - INFO - 127.0.0.1 - - [21/Nov/2025 16:35:30] "OPTIONS /api/best-move HTTP/1.1" 200 -
+2025-11-21 16:35:31,307 - INFO - Best move request received - FEN: rnbqkb1r/pp3ppp/2p2n2/3pp3/B3P3/2NP4/PPP2PPP/R1BQK1NR b KQkq - 0 5
+2025-11-21 16:35:31,307 - INFO - Calling Lichess API with FEN: rnbqkb1r/pp3ppp/2p2n2/3pp3/B3P3/2NP4/PPP2PPP/R1BQK...
+2025-11-21 16:35:31,708 - INFO - Full Lichess response: {'fen': 'rnbqkb1r/pp3ppp/2p2n2/3pp3/B3P3/2NP4/PPP2PPP/R1BQK1NR b KQkq - 0 5', 'knodes': 69641, 'depth': 32, 'pvs': [{'moves': 'a7a5 a2a3 d5e4 c3e4 f6e4 d3e4 d8d1 e1d1 b8d7 c2c3', 'cp': -92}]}
+2025-11-21 16:35:31,708 - INFO - PVS found - best_pv: {'moves': 'a7a5 a2a3 d5e4 c3e4 f6e4 d3e4 d8d1 e1d1 b8d7 c2c3', 'cp': -92}
+2025-11-21 16:35:31,708 - INFO - Lichess API response - Move: a7a5, Evaluation: -92
+2025-11-21 16:35:31,708 - INFO - Returning best move: a7a5
+2025-11-21 16:35:31,710 - INFO - 127.0.0.1 - - [21/Nov/2025 16:35:31] "POST /api/best-move HTTP/1.1" 200 -
+2025-11-21 16:35:34,880 - INFO - Best move request received - FEN: rnbqkb1r/1p3ppp/2p2n2/p2pp3/B2PP3/2N5/PPP2PPP/R1BQK1NR b KQkq - 0 6
+2025-11-21 16:35:34,880 - INFO - Calling Lichess API with FEN: rnbqkb1r/1p3ppp/2p2n2/p2pp3/B2PP3/2N5/PPP2PPP/R1BQ...
+2025-11-21 16:35:35,279 - ERROR - Lichess API error: 404
+2025-11-21 16:35:35,281 - INFO - 127.0.0.1 - - [21/Nov/2025 16:35:35] "[35m[1mPOST /api/best-move HTTP/1.1[0m" 500 -
