@@ -8,7 +8,7 @@ with open("predicted_board.fen", "r") as f:
     fen = f.read().strip()
 
 # -------------------------- #
-#   2. Load Stockfish        #
+#   2. Load Stockfish use your own stockfish executable        #
 # -------------------------- #
 stockfish = Stockfish(
     path=r"D:\downloads\stockfish-windows-x86-64-avx2\stockfish\stockfish-windows-x86-64-avx2.exe"
@@ -68,4 +68,5 @@ move_json = {
     "capture": "true" if capture else "false"
 }
 
-print(json.dumps(move_json, indent=2))
+with open("best_move.json", "w") as f:
+    json.dump(move_json, f, indent=2)
