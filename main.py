@@ -18,7 +18,10 @@ def main():
 
     # Perform predictio
     predicted_board = predictor.predict(image_file_path)
-    
+    a = predicted_board.fen().split(" ")
+    a[1] = "b"
+    predicted_board.set_fen(" ".join(a))    
+    print (predicted_board.fen())
     with open("predicted_board.fen", "w") as f:
         f.write(predicted_board.fen())
 
