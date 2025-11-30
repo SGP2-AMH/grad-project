@@ -18,8 +18,9 @@ def main():
 
     # Perform predictio
     predicted_board = predictor.predict(image_file_path)
-    print(predicted_board.fen())
     
+    with open("predicted_board.fen", "w") as f:
+        f.write(predicted_board.fen())
 
     # Render the predicted board to an SVG file or display it
     board_svg = chess.svg.board(board=predicted_board)
